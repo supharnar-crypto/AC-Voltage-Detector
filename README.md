@@ -68,7 +68,7 @@ VCC ─────────────────────────�
 | VCC | Supply | 5V DC | — | Circuit power supply |
 | GND | Ground | — | — | Common return |
 
-**EDA Tool:** Designed and simulated using a schematic capture tool (e.g., KiCad / EasyEDA / Proteus — update this line to match the exact tool you used).
+**EDA Tool:** Designed and simulated using a Easy EDA schematic capture tool 
 
 ---
 
