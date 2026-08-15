@@ -194,8 +194,3 @@ The probe (J1) is **not directly wired to mains** — it must only be brought ne
 - Enclose in an insulated pen-style housing with a rated probe tip.
 - Add sensitivity adjustment via a potentiometer in place of R3.
 
----
-
-## License
-
-Add your preferred license here (e.g., MIT).
